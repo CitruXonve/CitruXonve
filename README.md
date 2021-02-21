@@ -9,13 +9,20 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=Docker&logoColor=white)
 ![Travis](https://img.shields.io/badge/-travis%20CI-2EB459?style=for-the-badge&logo=travis)
 
-#### === INFO Reading statistics... Done ===
+#### === INFO Loading Virtual Machines... Done ===
+
+✅ ⁠ ⁢⁣⁡⁠ Java 8/11
+
+✅ ⁠ ⁢⁣⁡⁠ Python 3.x
+
+✅ ⁠ ⁢⁣⁡⁠ Node.js v11.x
+
+#### === INFO Reading Statistics... Done ===
 
 ![][GitHub Stats]
 
-![][Top Langs]
-
 <!--
+![][Top Langs]
 ![][Wakatime Stats]
 -->
 
