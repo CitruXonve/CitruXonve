@@ -2,7 +2,7 @@
 
 #### === INFO Checking Shell Environment... Done ===
 
-![Mac](https://img.shields.io/badge/macOS-Catalina-d8d8d8?style=for-the-badge&logo=apple&logoColor=white)
+![Mac](https://img.shields.io/badge/macOS-BigSur-d8d8d8?style=for-the-badge&logo=apple&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04-dd4814?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007aba?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-success?style=for-the-badge&logo=github&logoColor=white)
@@ -11,11 +11,11 @@
 
 #### === INFO Loading Virtual Machines... Done ===
 
-✅ ⁠ ⁢⁣⁡⁠ Java 8/11
+✅ ⁠ ⁢⁣⁡⁠ Java 11
 
 ✅ ⁠ ⁢⁣⁡⁠ Python 3.x
 
-✅ ⁠ ⁢⁣⁡⁠ Node.js v11.x
+✅ ⁠ ⁢⁣⁡⁠ Node.js v12.x
 
 #### === INFO Reading Statistics... Done ===
 
