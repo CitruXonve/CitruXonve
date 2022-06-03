@@ -11,11 +11,11 @@
 
 #### === INFO Loading Virtual Machines... Done ===
 
-✅ ⁠ ⁢⁣⁡⁠ Java 11
+✅ ⁠ ⁢⁣⁡⁠ GCC 8.x -std=c++17
+
+✅ ⁠ ⁢⁣⁡⁠ Node.js v15.x
 
 ✅ ⁠ ⁢⁣⁡⁠ Python 3.x
-
-✅ ⁠ ⁢⁣⁡⁠ Node.js v12.x
 
 #### === INFO Reading Statistics... Done ===
 
