@@ -2,20 +2,22 @@
 
 #### === INFO Checking Shell Environment... Done ===
 
-![Mac](https://img.shields.io/badge/macOS-BigSur-d8d8d8?style=for-the-badge&logo=apple&logoColor=white)
+![Mac](https://img.shields.io/badge/macOS-Sequoia-d8d8d8?style=for-the-badge&logo=apple&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04-dd4814?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Made with Cursor](https://img.shields.io/badge/-Cursor-5448C8?style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007aba?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-success?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=Docker&logoColor=white)
+![Circle CI](https://img.shields.io/badge/-Circle%20CI-161616?style=for-the-badge&logo=circleci)
 ![Travis](https://img.shields.io/badge/-travis%20CI-2EB459?style=for-the-badge&logo=travis)
 
 #### === INFO Loading Virtual Machines... Done ===
 
-✅ ⁠ ⁢⁣⁡⁠ GCC 8.x -std=c++17
-
-✅ ⁠ ⁢⁣⁡⁠ Node.js v15.x
-
 ✅ ⁠ ⁢⁣⁡⁠ Python 3.x
+
+✅ ⁠ ⁢⁣⁡⁠ Node.js v18.x
+
+✅ ⁠ ⁢⁣⁡⁠ GCC 8.x -std=c++17
 
 #### === INFO Reading Statistics... Done ===
 
